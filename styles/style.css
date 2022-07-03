@@ -1,3 +1,10 @@
+
 header {
-    color: #FFF555
+    color: #fc5500
+}
+* {
+    font-family: 'Bitter', serif;
+}
+h1 {
+    font-family: 'Lato', sans-serif;
 }
